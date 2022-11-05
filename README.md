@@ -26,7 +26,7 @@
 ## 📫 To connect with me
 
 <section>
-<a href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
+<a align="center" href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
    <img align="center" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
   </a>
  <a href="https://www.linkedin.com/in/eljemli/" target="_blank">
