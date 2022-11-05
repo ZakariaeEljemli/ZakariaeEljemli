@@ -46,7 +46,7 @@
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ZakariaeEljemli&color=blue" alt="ZakariaeEljemli" /> </p> 
 <br>
 </div>
 <p align="center">
@@ -54,6 +54,8 @@
 </p>
 <hr>
 <!-- End Visitor Count -->
+
+## Profile Views
 
 
     
@@ -71,9 +73,6 @@
 
 
 <!-- 
-## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZakariaeEljemli&color=blue" alt="ZakariaeEljemli" /> </p>
-
  
 <p align="left"> <a href="https://github.com/ZakariaeEljemli/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli" alt="ZakariaeEljemli" /></a> </p>
 -->
