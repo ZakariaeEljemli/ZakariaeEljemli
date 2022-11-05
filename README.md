@@ -26,14 +26,14 @@
 ## 📫 To connect with me
 
 <section>
-<a align="center" href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
-   <img align="center" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
+<a href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
+   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
   </a>
  <a href="https://www.linkedin.com/in/eljemli/" target="_blank">
-   <img align="center" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
  <a href="https://twitter.com/EljemliZakariae" target="_blank">
-   <img align="center" alt="Zakariae ELJEMLI | Twitter" width="24px" src="https://user-images.githubusercontent.com/69751645/141522007-36f381cd-11d9-42cd-a36f-64d05b9611e6.png" />
+   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="24px" src="https://user-images.githubusercontent.com/69751645/141522007-36f381cd-11d9-42cd-a36f-64d05b9611e6.png" />
   </a>
 <br>
 <hr>
@@ -60,7 +60,7 @@
 <!-- START NEW SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
+  <h2 align="center">My Github Profile Trophies</h2>
 </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15" /> </p> 
@@ -184,6 +184,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://simpleicons.org/?q=power%20apps?logo=powerapps&logoColor=white"></a>
 </p>
  <br>
 <hr>
