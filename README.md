@@ -27,13 +27,13 @@
 
 <section>
 <a href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
+   <img align="center" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
   </a>
  <a href="https://www.linkedin.com/in/eljemli/" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="center" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
  <a href="https://twitter.com/EljemliZakariae" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="24px" src="https://user-images.githubusercontent.com/69751645/141522007-36f381cd-11d9-42cd-a36f-64d05b9611e6.png" />
+   <img align="center" alt="Zakariae ELJEMLI | Twitter" width="24px" src="https://user-images.githubusercontent.com/69751645/141522007-36f381cd-11d9-42cd-a36f-64d05b9611e6.png" />
   </a>
 <br>
 <hr>
@@ -45,7 +45,7 @@
     
 <!-- START Visitor Count -->
 <div align="center">
-<h2 align="centre">Visitors Count</h2>  
+<h2 align="center">Visitors Count</h2>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZakariaeEljemli&color=blue" alt="ZakariaeEljemli" /> </p> 
 <br>
 </div>
@@ -63,7 +63,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15" /> </p> 
 
 <hr>
 
