@@ -11,7 +11,7 @@
    <h2>I am Zakariae ELJEMLI, a double degree engineer✨</h2>
    <p>🎓 Civil engineer graduated from Ecole Hassania des Travaux Publics, Casablanca, Morocco</a>
    <p>🎓 Pluridisciplinary engineer graduated from Centrale Nantes, France</a>
-   <p> 👔 I am Currently a BIM Manager at Vestack, a startup disrupting the AEC industry with its innovative way of construction leveraging industrialization and digitalisation.</a>
+   <p> 👔 I am Currently a Digital & IT Business Consultant at Wavestone, a management consulting firm which is specialized in business transformation.</a>
    
    </p>
    <hr>
