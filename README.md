@@ -72,13 +72,10 @@
 
 <!-- 
 ## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiliitju" alt="shakiliitju" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy-31" alt="hridoy-31" /></a> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZakariaeEljemli&color=blue" alt="ZakariaeEljemli" /> </p>
 
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakiliitju" alt="shakiliitju" /></a> </p>
+<p align="left"> <a href="https://github.com/ZakariaeEljemli/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli" alt="ZakariaeEljemli" /></a> </p>
 -->
 
 
