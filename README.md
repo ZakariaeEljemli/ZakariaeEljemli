@@ -55,10 +55,7 @@
 <hr>
 <!-- End Visitor Count -->
 
-## Profile Views
 
-
-    
     
 <!-- START NEW SECTION -->
 <p align="center">
@@ -66,7 +63,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15)
 
 <hr>
 
@@ -74,7 +71,7 @@
 
 <!-- 
  
-<p align="left"> <a href="https://github.com/ZakariaeEljemli/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli" alt="ZakariaeEljemli" /></a> </p>
+<p align="center"> <a href="https://github.com/ZakariaeEljemli/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli" alt="ZakariaeEljemli" /></a> </p>
 -->
 
 
@@ -114,14 +111,14 @@
 <!--
 ## GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=radica)
+![github stats](https://github-readme-stats.vercel.app/api?username=ZakariaeEljemli&show_icons=true&theme=radica)
           
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=default)](https://github.com/shakiliitju/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaeEljemli&theme=default)](https://github.com/ZakariaeEljemli/github-readme-stats)
 
 
 ## Most Used Languages
 
-<img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&theme=buefy&layout=compact"  />
+<img height="235cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaeEljemli&theme=buefy&layout=compact"  />
 
 -->
 
