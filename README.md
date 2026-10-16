@@ -44,8 +44,6 @@
   <h2 align="center">My Skills</h2>
 </p>
 
-<hr>
-
 ### 👨‍💻 Programming languages
 
 <p>
