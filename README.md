@@ -30,7 +30,7 @@
   <img align="left" alt="Zakariae ELJEMLI | Malt" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
 </a>
 <a href="https://www.linkedin.com/in/eljemli/" target="_blank">
-  <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <br>
 <hr>
