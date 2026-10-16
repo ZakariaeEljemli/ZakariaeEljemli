@@ -8,10 +8,9 @@
    
 <section>
    <h1 align="center">My IT Profile</h1>
-   <h2>I am Zakariae ELJEMLI, a double degree engineer✨</h2>
-   <p>🎓 Civil engineer graduated from Ecole Hassania des Travaux Publics, Casablanca, Morocco</a>
-   <p>🎓 Pluridisciplinary engineer graduated from Centrale Nantes, France</a>
-   <p> 👔 I am Currently a Digital & IT Business Consultant at Wavestone, a management consulting firm which is specialized in business transformation.</a>
+   <h2>I am Zakariae ELJEMLI, an engineer with 7 years experiences✨</h2>
+   <p>🎓 Graduated from Centrale Nantes, France</a>
+   <p> 👔 I am Currently a Digital & IT Business Senior Consultant at Wavestone, a management consulting firm which is specialized in CIO transformation.</a>
    
    </p>
    <hr>
@@ -37,30 +36,13 @@
 </section>
 
 <!-- End Social Media -->
-  
-   
-    
-<!-- START Visitor Count -->
-<div align="center">
-<h2 align="center">Visitors Count</h2>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ZakariaeEljemli&color=blue" alt="ZakariaeEljemli" /> </p> 
-<br>
-</div>
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
-<hr>
-<!-- End Visitor Count -->
-
-
+ 
     
 <!-- START NEW SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophies</h2>
+  <h2 align="center">My Skills</h2>
 </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ZakariaeEljemli&row=3&column=4&margin-w=10&margin-h=15" /> </p> 
 
 <hr>
 
