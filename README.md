@@ -27,14 +27,11 @@
 
 <section>
 <a href="https://www.malt.fr/profile/zakariaeeljemli" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
-  </a>
- <a href="https://www.linkedin.com/in/eljemli/" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
- <a href="https://twitter.com/EljemliZakariae" target="_blank">
-   <img align="left" alt="Zakariae ELJEMLI | Twitter" width="24px" src="https://user-images.githubusercontent.com/69751645/141522007-36f381cd-11d9-42cd-a36f-64d05b9611e6.png" />
-  </a>
+  <img align="left" alt="Zakariae ELJEMLI | Malt" width="80px" src="https://user-images.githubusercontent.com/69751645/138134751-6e99d618-2610-471f-9b12-9c7acdeb4767.jpg"/>
+</a>
+<a href="https://www.linkedin.com/in/eljemli/" target="_blank">
+  <img align="left" alt="Zakariae ELJEMLI | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+</a>
 <br>
 <hr>
 </section>
